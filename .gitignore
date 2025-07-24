@@ -1,0 +1,20 @@
+# 🔹 Virtual environment folders
+env/
+venv/
+
+# 🔹 Python cache
+__pycache__/
+*.pyc
+
+# 🔹 VS Code settings
+.vscode/
+
+# 🔹 Sensitive files
+myenv2/
+
+# 🔹 Logs and DB
+*.log
+*.sqlite3
+
+# 🔹 Streamlit files
+.streamlit/
